@@ -1,0 +1,5 @@
+perkenalkan saya fuad dari solo
+
+Resolusi saya :
+- Membuat website menggunakan framework javascript 
+- bisa frontend dan backend
